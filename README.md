@@ -1,6 +1,7 @@
-# Welcome to your CDK TypeScript project
+# CDK project to setup OIDC for GitHub Actions
 
-This is a blank project for CDK development with TypeScript.
+Example of setting up OIDC for Github actions to use IAM roles & STS
+
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
